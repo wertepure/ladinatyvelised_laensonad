@@ -1,5 +1,5 @@
 # Eesti omasõnade ja ladinatüveliste laensõnade kasutuse võrdlemine
-Siin repositooriumis on digihumanitaaria projekti raames koostatud kood eesti omasõnade ja ladinatüveliste laensõnade kasutuse võrdlemiseks. Uurimise all on sõnad, millel on eesti omasõna ja vastav samatähenduslik ladinatüveline laen. Kood otsib Digari ajakirjandustekstidest tekste, kus otsitavaid sõnu on mainitud, salvestab need failidena ja koostab nende failide tulemusel oma- ja laensõnade kasutussageduse võrdlemiseks graafikud ja tabelid<br>
+Siin repositooriumis on digihumanitaaria projekti raames koostatud kood eesti omasõnade ja ladinatüveliste laensõnade kasutuse võrdlemiseks. Uurimise all on sõnad, millel on eesti omasõna ja vastav samatähenduslik ladinatüveline laen. Kood otsib Digari ajakirjandustekstidest tekste, kus otsitavaid sõnu on mainitud, salvestab need failidena ja koostab nende failide tulemusel oma- ja laensõnade kasutussageduse võrdlemiseks graafikud ja tabelid. Lisaks saab leida väljaanded, kus need sõnad kõige rohkem esinesid ja nende sagedustest graafikud teha.<br>
 
 Failis ladina_tyved_kood.ipnyb on kood Jupyter Notebooki kujul, mida saab kasutada Jupyteri keskkonnas.<br>
 
