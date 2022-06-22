@@ -1,0 +1,2 @@
+# ladinatyvelised_laensonad
+Võrdleb eesti omasõnade ja samatähenduslike ladinatüveliste laensõnade kasutussagedust ajakirjandustekstides
